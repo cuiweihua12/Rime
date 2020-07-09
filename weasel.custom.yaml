@@ -1,0 +1,13 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Tue Jul  7 09:25:57 2020"
+  rime_version: 1.5.3
+patch:
+  "app_options/idea64.exe":
+    ascii_mode: true
+  "style/color_scheme": brasil
+  "style/font_face": "楷体"
+  "style/font_point": 13
+  "style/horizontal": true
